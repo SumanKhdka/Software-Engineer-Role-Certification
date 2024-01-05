@@ -8,7 +8,7 @@ Solutions of Software Engineer Role Certificate of Hackerrank Python & MySQL
 
 <hr>
 
-### Hackerrank Python Domain
+### Hackerrank Software Engineer Certificate
 
-![alt Certificate](//certificate.png)
+![alt Certificate](/certificate.png)
 
